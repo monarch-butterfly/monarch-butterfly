@@ -1,7 +1,7 @@
 # Monarch Butterfly
 
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white)}" />
+<img src="{https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white}" />
 
 
 ## Description
